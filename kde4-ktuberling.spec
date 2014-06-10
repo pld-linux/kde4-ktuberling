@@ -6,12 +6,12 @@ Summary:	KDE game for small children
 Summary(pl.UTF-8):	Gra dla małych dzieci
 Summary(pt_BR.UTF-8):	Jogo de desenho do 'Homem-batata' para crianças
 Name:		kde4-%{orgname}
-Version:	4.13.1
+Version:	4.13.2
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	e786a44c9edda2bd2b22bb7861d50629
+# Source0-md5:	004a2e4cc462a4ea9b2a31df8244d8ed
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
